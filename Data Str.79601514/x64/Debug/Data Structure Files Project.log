@@ -1,0 +1,4 @@
+﻿  Data Structure Files Project.cpp
+D:\Data Structure Project\Data Structure Files Project\Data Structure Files Project.cpp(262,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Data Structure Project\Data Structure Files Project\Data Structure Files Project.cpp(649,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Data Structure Files Project.vcxproj -> D:\Data Structure Project\Data Structure Files Project\x64\Debug\Data Structure Files Project.exe
